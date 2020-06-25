@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-06-25 15:37:01">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 15:33:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c4fc1b207e1101009f0ff808c1ed03c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Other Stuff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_9c4fc1b207e1101009f0ff808c1ed03c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:33:32</sys_updated_on>
+        <title>PA Other Stuff</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Other Stuff">9c4fc1b207e1101009f0ff808c1ed03c</page>
+                <summary>Key Metrics</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-25 15:35:15</sys_created_on>
+                <sys_id>8cbf41f207e1101009f0ff808c1ed07a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-25 15:35:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-06-25 16:35:15">8cbf41f207e1101009f0ff808c1ed07a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:35:15</sys_created_on>
+                        <sys_id>00bf41f207e1101009f0ff808c1ed07b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:35:15</sys_updated_on>
+                        <value>17d23da297303000adcad4541b297562</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-25 16:35:15">8cbf41f207e1101009f0ff808c1ed07a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:35:15</sys_created_on>
+                        <sys_id>08bf41f207e1101009f0ff808c1ed07b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:35:15</sys_updated_on>
+                        <value>Key Metrics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-25 16:35:15">8cbf41f207e1101009f0ff808c1ed07a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:35:15</sys_created_on>
+                        <sys_id>44bf41f207e1101009f0ff808c1ed07b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:35:15</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Other Stuff">9c4fc1b207e1101009f0ff808c1ed03c</page>
+                <summary>Pending Asset Retirements</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-25 15:34:49</sys_created_on>
+                <sys_id>f19f05b207e1101009f0ff808c1ed0c7</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-25 15:34:49</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-06-25 16:34:49">f19f05b207e1101009f0ff808c1ed0c7</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:34:49</sys_created_on>
+                        <sys_id>759f05b207e1101009f0ff808c1ed0c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:34:49</sys_updated_on>
+                        <value>70664f38d7a10100c11180f29e610327</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-25 16:34:49">f19f05b207e1101009f0ff808c1ed0c7</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:34:49</sys_created_on>
+                        <sys_id>7d9f05b207e1101009f0ff808c1ed0c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:34:49</sys_updated_on>
+                        <value>Pending Asset Retirements</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-25 16:34:49">f19f05b207e1101009f0ff808c1ed0c7</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-25 15:34:49</sys_created_on>
+                        <sys_id>b99f05b207e1101009f0ff808c1ed0c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-25 15:34:49</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
